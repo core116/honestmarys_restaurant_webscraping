@@ -1,0 +1,35 @@
+item_id,company_name,item_name,protein_option,price,description,added_date,last_modified_date,discontinued_date
+1,Honestmarys,Choose a Bowl,Smoky Poblano (GF),$9.75,"Basmati Rice, Wild Arugula, Sweet Corn, Pickled Onions, Texas Goat Cheese, Avocado, Pumpkin Seeds, Lime Wedge, Creamy Poblano Sauce",2023-09-29,2023-09-29,none
+2,Honestmarys,Choose a Bowl,"Aloha Poke (GF, DF)",$12.75,"Hand-line Caught Poke, Basmati Rice, Avocado, Asian Slaw, Edamame, Pickled Onions, Fresh Organic Jalapeños, Black Sesame Seeds, Sesame Vinaigrette, Lime Wedge",2023-09-29,2023-09-29,none
+3,Honestmarys,Choose a Bowl,Golden Grain (GF),$9.50,"Tricolored Quinoa, Wild Arugula, Organic Apples, Roasted Beets, Crispy Chickpeas, Texas Goat Cheese, Toasted Texas Pecans, Apple Cider Vinaigrette",2023-09-29,2023-09-29,none
+4,Honestmarys,Choose a Bowl,"Sedona Lime (V, GF, DF)",$9.00,"Basmati Rice, Organic Spinach, Black Beans, Roasted Sweet Potatoes, Toasted Pumpkin Seeds, Cashew Lime Crema Sauce, Lime Wedge",2023-09-29,2023-09-29,none
+5,Honestmarys,Choose a Bowl,Mediterranean Harissa (GF),$10.25,"Black Forbidden Rice, Wild Arugula, Roasted Beets, Sweet Corn, Cucumber Salad, Crumbled Feta, Texas Harissa, Lemon Herb Yogurt Sauce",2023-09-29,2023-09-29,none
+6,Honestmarys,Choose a Bowl,Curry Cauliflower Bowl (Seasonal),$9.75,"Basmati Rice, Wild Arugula, French Green Lentils, Curry Roasted Cauliflower, Pickled Onions, Fresh Herb Blend, Crispy Chickpeas, Spicy Peanut Sauce",2023-09-29,2023-09-29,none
+7,Honestmarys,1. Select a Bowl,Grilled Naturally Raised Chicken Bowl,$12.75,CHOOSE ITEMS BELOW // 1 Base + 2 Market Sides + 2 Toppings + 1 Sauce,2023-09-29,2023-09-29,none
+8,Honestmarys,1. Select a Bowl,Grilled Naturally Raised Steak Bowl,$14.00,CHOOSE ITEMS BELOW // 1 Base + 2 Market Sides + 2 Toppings + 1 Sauce,2023-09-29,2023-09-29,none
+9,Honestmarys,1. Select a Bowl,Hand-line Caught Poke Bowl,$14.50,CHOOSE ITEMS BELOW // 1 Base + 2 Market Sides + 2 Toppings + 1 Sauce,2023-09-29,2023-09-29,none
+10,Honestmarys,1. Select a Bowl,Baked Organic Non-GMO Tofu Bowl,$12.50,CHOOSE ITEMS BELOW // 1 Base + 2 Market Sides + 2 Toppings + 1 Sauce,2023-09-29,2023-09-29,none
+11,Honestmarys,1. Select a Bowl,Farmers' Market (extra Market Side),$10.75,CHOOSE ITEMS BELOW // 1 Base + 3 Market Sides + 2 Toppings + 1 Sauce,2023-09-29,2023-09-29,none
+12,Honestmarys,(Each Meal Serves 4),Family Meal,$40.00,Choose your Protein + 1 Base + 2 Market Sides + 3 Toppings + 2 Sauces,2023-09-29,2023-09-29,none
+13,Honestmarys,(Each Meal Serves 4),4 Almond Butter Cookies,$12.00,"Sweetened with maple syrup and topped with maldon sea salt (V, GF, DF)",2023-09-29,2023-09-29,none
+14,Honestmarys,(Each Meal Serves 4),Almond Butter Cookie,$3.25,"Sweetened with maple syrup and topped with maldon sea salt (V, GF, DF)",2023-09-29,2023-09-29,none
+15,Honestmarys,(Each Meal Serves 4),Agua Fresca or Tea (1/2 Gallon),$10.00,Half gallon of one of our house-made Agua Frescas or Teas,2023-09-29,2023-09-29,none
+16,Honestmarys,Click the Kids Bowl below!,Kids Bowl,$7.50,CHOOSE ITEMS BELOW // 1 Protein + 1 Base + 1 Market Side + 1 Topping + 1 Sauce,2023-09-29,2023-09-29,none
+17,Honestmarys,"Agua Frescas, Kombuchas, & more",AF | Cucumber Lime,$3.00,"Agua Fresca made in house w/ cucumber, lime & agave",2023-09-29,2023-09-29,none
+18,Honestmarys,"Agua Frescas, Kombuchas, & more",AF | Ginger Limeade,$3.00,"Agua Fresca made in house w/ lime, ginger & agave",2023-09-29,2023-09-29,none
+19,Honestmarys,"Agua Frescas, Kombuchas, & more","TEA | Black Yaupon Tea, Iced",$3.00,Black Tea sourced locally from our friends at CatSpring Yaupon,2023-09-29,2023-09-29,none
+20,Honestmarys,"Agua Frescas, Kombuchas, & more","TEA | Green Yaupon Tea, Iced",$3.00,Green Tea sourced locally from our friends at CatSpring Yaupon,2023-09-29,2023-09-29,none
+21,Honestmarys,"Agua Frescas, Kombuchas, & more",BOTTLE | Rainwater,$2.25,Bottled rain sourced locally from our friends at Richard's Rainwater,2023-09-29,2023-09-29,none
+22,Honestmarys,"Agua Frescas, Kombuchas, & more",BOTTLE | Sparkling Rainwater,$2.25,Bottled rain sourced locally from our friends at Richard's Rainwater,2023-09-29,2023-09-29,none
+23,Honestmarys,"Agua Frescas, Kombuchas, & more",BOTTLE | Prebiotic (Pear Lime),$4.00,Sparkling Prebiotic from our Austin friends at Mayawell,2023-09-29,2023-09-29,none
+24,Honestmarys,"Agua Frescas, Kombuchas, & more",BOTTLE | Prebiotic (Pineapple Mango),$4.00,Sparkling Prebiotic from our Austin friends at Mayawell,2023-09-29,2023-09-29,none
+25,Honestmarys,"Agua Frescas, Kombuchas, & more",BOTTLE | Prebiotic (Raspberry Cucumber),$4.00,Sparkling Prebiotic from our Austin friends at Mayawell,2023-09-29,2023-09-29,none
+26,Honestmarys,"Agua Frescas, Kombuchas, & more",BOTTLE | Prebiotic (Watermelon Mint),$4.00,Sparkling Prebiotic from our Austin friends at Mayawell,2023-09-29,2023-09-29,none
+27,Honestmarys,"Agua Frescas, Kombuchas, & more",ON TAP | Seasonal Kombucha (Kosmic),$5.00,,2023-09-29,2023-09-29,none
+28,Honestmarys,"Agua Frescas, Kombuchas, & more",ON TAP | Tender Robot IPA (Meanwhile Brewing),$6.00,"Nice and smooth Hazy IPA. Just enough soft bitterness to handle all them fruit flavors. Stuffed with tons of tropical fruit notes - guava, mango, pineapple, and lime zest. ABV: 6.2%",2023-09-29,2023-09-29,none
+29,Honestmarys,"Agua Frescas, Kombuchas, & more",ON TAP | Pearl Snap Pilsner (Austin Beerworks),$5.00,"German-Style Pilsner sourced locally from our friends at Austin Beer Works. Crisp, clean and bright, this local favorite is always a winner. 5.3% ABV",2023-09-29,2023-09-29,none
+30,Honestmarys,"Agua Frescas, Kombuchas, & more",ON TAP | Seasonal Beer (Meanwhile Brewing),$6.00,,2023-09-29,2023-09-29,none
+31,Honestmarys,"Agua Frescas, Kombuchas, & more",ON TAP | Cherry Bomb (Kosmic),$5.00,"Organic Kombucha, Organic Black Cherry Juice, Organic Maple & Chocolate",2023-09-29,2023-09-29,none
+32,Honestmarys,"Agua Frescas, Kombuchas, & more",ON TAP | Groovy Green Kombucha (Kosmic),$5.00,"A favorite kombucha from our Austin friends at Kosmic Kombucha. Organic Kombucha,Kiwi, Pineapple, Coconut, Wheatgrass, & Agave.",2023-09-29,2023-09-29,none
+33,Honestmarys,Sweets,Almond Butter Cookie,$3.25,"Sweetened with maple syrup and topped with maldon sea salt (V, GF, DF)",2023-09-29,2023-09-29,none
+34,Honestmarys,Delivery Charge,Standard Delivery Charge,$30.00,"This item is to be selected only when a delivery has already been discussed with Honest Mary's, as a way to add the delivery charge to the order. Please do not click this unless you have already discussed delivery with Honest Mary's. Thank you!",2023-09-29,2023-09-29,none
